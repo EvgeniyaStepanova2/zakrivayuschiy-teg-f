@@ -274,7 +274,7 @@
   opacity: 0;
 }
 
-.like-icon:hover .core{
+.like-icon:hover .core {
   fill: #000;
   transition: fill 0.3s linear;
 }
@@ -284,7 +284,7 @@
   transition: fill 0.3s 0.05s linear;
 }
 
-.like-icon:active .core{
+.like-icon:active .core {
   fill: var(--animation-fill-color);
   transition: fill 0.3s linear;
 }
